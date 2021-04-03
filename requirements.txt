@@ -1,0 +1,5 @@
+pyttsx3
+speech_recogonition
+wikipedia
+
+I have already added the venv in this folder just use it as interpreter
